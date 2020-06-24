@@ -1,0 +1,7 @@
+{
+  "name": "vrDemoAframe",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
