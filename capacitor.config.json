@@ -2,6 +2,7 @@
   "appId": "io.ionic.starter",
   "appName": "vrDemoAframe",
   "bundledWebRuntime": false,
+  "windowsAndroidStudioPath": "D:\\Android\\Android Studio\\bin\\studio64.exe",
   "npmClient": "npm",
   "webDir": "www",
   "plugins": {
